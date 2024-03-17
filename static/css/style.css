@@ -20,7 +20,7 @@ body{
 .img-div{
     height: 60vh;
     width: 100%;
-    background-image: url(./Capture-modified.PNG);
+    background-image: url(/Capture-modified.PNG);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 22%;
@@ -386,6 +386,14 @@ h5{
     display: none;
 }
 @media screen and (max-width: 600px){
+    .img-div{
+        height: 60vh;
+        width: 100%;
+        background-image: url(/Capture-modified.PNG);
+        background-repeat: no-repeat;
+        background-size: auto;
+        padding-top: 22%;
+    }
     .nav{
         width: 100%;
         display: block;
