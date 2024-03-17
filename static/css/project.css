@@ -20,7 +20,7 @@ body{
 .img-div{
     height: 60vh;
     width: 100%;
-    background-image: url(/static/image/person1.PNG);
+    background-image: url(./Capture-modified.PNG);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 22%;
